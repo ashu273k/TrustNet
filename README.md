@@ -5,7 +5,7 @@ Lightweight, explainable experimentation on social bot detection using a curated
 ![Status: Active](https://img.shields.io/badge/status-active-success?style=flat-square)
 ![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/license-MIT-purple?style=flat-square)
-![Domain: Social Bots](https://img.shields.io/badge/model-domain%20specific-social%20bots-orange?style=flat-square)
+![Domain: Social Bots](https://img.shields.io/badge/Domain-Social%20Bots-orange?style=flat-square)
 
 **TrustNet** is a lightweight experimentation space for detecting automated (bot / spam) accounts on Twitter/X using a carefully curated *small subset* of the well‑known **Cresci 2017** datasets. This repository focuses on approach clarity, feature engineering transparency, and reproducible evaluation.
 
